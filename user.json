@@ -15,11 +15,6 @@
         },
         "profiles": [
             {
-                "network": "Twitter",
-                "username": "Rahulgo73330311",
-                "url": "https://www.twitter.com/Rahulgo73330311?s=08"
-            },
-            {
                 "network": "Github",
                 "username": "Rahulgoyal123",
                 "url": "https://www.github.com/Rahulgoyal123"
