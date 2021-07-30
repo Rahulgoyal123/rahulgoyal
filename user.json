@@ -1,0 +1,70 @@
+{
+    "basics": {
+        "name": "Rahul Goyal",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/76260045?s=400&u=b54b2f83c26df628e2881ecebbb5a70c66e8b0f3&v=4",
+        "email": "2020kuec2036@iiitkota.ac.in",
+        "phone": "+916367740436",
+        "summary": "I am a student of Indian Institute of Information Technology, Kota , persuing my B.Tech in Electronics and Communication Engineering.",
+        "location": {
+            "address": "Hindaun city, karuali, rajasthan ,India",
+            "postalCode": "322230",
+            "city": "Karauli",
+            "countryCode": "India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "Rahulgo73330311",
+                "url": "https://www.twitter.com/Rahulgo73330311?s=08"
+            },
+            {
+                "network": "Github",
+                "username": "Rahulgoyal123",
+                "url": "https://www.github.com/Rahulgoyal123"
+            },
+            {
+                "network": "linkedin",
+                "username": "RAHUL GOYAL",
+                "url": "https://www.linkedin.com/in/rahul-goyal-7b097720a/"
+            },
+            {
+                "network": "Instagram",
+                "username": "rahul_goyal567",
+                "url": "https://www.instagram.com/rahul_goyal567/"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information technology,kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Electronics and Communication Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "C/C++"
+            ]
+        }
+    ],
+    "interests": [
+        {
+            "name": "Sports",
+            "keywords": [
+                "Cricket",
+                "Badminton"
+            ]
+        }
+    ],
+    "references": []
+}
